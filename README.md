@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Yuri 👋</h1>
 <p align="center" fontSize="600">
-		FullStack Engineer
+		Software Developer
 </p>
 
 <p align="center">
