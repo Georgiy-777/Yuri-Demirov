@@ -13,17 +13,6 @@
 
 ---
 
-## About me
-
-I’m a developer with **4+ years of commercial experience** building **ERP systems**, **e-commerce platforms**, and **high-load web applications**.
-
-I’m strong in both **frontend** (React / Next.js / TypeScript) and **backend** (Node.js, NestJS, AdonisJS, Express).  
-I enjoy **system design**, **clean architecture** (FSD, modular monolith), **REST APIs**, **PostgreSQL/MongoDB**, and **cloud infrastructure** (AWS, Docker, CI/CD).
-
-I’m used to owning features end-to-end: from **domain modeling** and **API contracts** to **UI/UX**, **performance**, **security**, and **production monitoring**.
-
----
-
 ## Core strengths
 
 - **Product-minded engineering:** shipping features that users feel, not just code that compiles
